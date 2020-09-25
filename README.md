@@ -21,7 +21,7 @@ I've worked on the development of a web-based SaaS Healthcare application and a 
 
 <p>
 <b>CONFIGURATION</b></br>
-I spent several years building out a Suite of Configuration tools, first in JSON and then JSON and YAML. I'm also a proponent of Low Code and No Code products</br>
+I spent several years building out a Suite of Configuration tools, first in JSON and then JSON and YAML. I take notes in a text editor using the YAML Syntax and if I like your app, I'm going to look at all your pretty JSON calls. I'm also a proponent of Low Code and No Code products</br>
 :link: JSON</br>
 :link: YAML</br>
 </p>
