@@ -20,8 +20,8 @@ I've worked on the development of a web-based SaaS Healthcare application and a 
 </p>
 
 <p>
-<b>CONFIGURATION</b> {config is pretty}</br>
-I spent several years building out a Suite of Configuration tools, first in JSON and then JSON and YAML</br>
+<b>CONFIGURATION</b></br>
+I spent several years building out a Suite of Configuration tools, first in JSON and then JSON and YAML. I'm also a proponent of Low Code and No Code products</br>
 :link: JSON</br>
 :link: YAML</br>
 </p>
