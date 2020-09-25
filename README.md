@@ -12,10 +12,10 @@ I know you don't but **I DO** :rage1:
 
 <p>
 <b>INTEGRATIONS</b></br>
-:floppy_disk: <b>Twilio</b> (SMS, MMS & Broadcast web-based messaging services)</br>
-:floppy_disk: <b>SendGrid</b> (Transactional and Marketing email services)</br>
-:floppy_disk: <b>Bee Plugin</b> (Email Design)</br>
-:floppy_disk: <b>FlatFile</b> (Data imports)</br>
+:zap: <b>Twilio</b> (SMS, MMS & Broadcast web-based messaging services)</br>
+:zap: <b>SendGrid</b> (Transactional and Marketing email services)</br>
+:zap: <b>Bee Plugin</b> (Email Design)</br>
+:zap: <b>FlatFile</b> (Data imports)</br>
 </p>
 
 <p>
