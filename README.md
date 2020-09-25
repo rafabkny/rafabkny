@@ -1,6 +1,6 @@
 ### Hi there 👋,
 I am **Rafael** (aka Configutron), the best **Product Management Generalist** you probably haven't met yet. Feel free to say hello. 
-My happy place is the part of the development cycle where I get to work with developers and turn product requirements turn into usable features.
+<p>My happy place is the part of the development cycle where I get to work with developers and turn product requirements turn into usable features.</p>
 
 YES! I know WE ALL LIVE for the moment we get to SHIP TO PRODUCTION... but do you love the painful process of getting there?</br> 
 I know you don't but **I DO** :rage1:
