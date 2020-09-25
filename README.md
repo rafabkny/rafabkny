@@ -1,4 +1,5 @@
-### Hi there 👋: I am Rafael (aka Configutron), the best Product Management Generalist you probably haven't met yet. Feel free to say hello. My happy place is the part of the development cycle where I get to work with developers and turn product requirements turn into usable features. 
+### Hi there 👋,
+I am Rafael (aka Configutron), the best Product Management Generalist you probably haven't met yet. Feel free to say hello. My happy place is the part of the development cycle where I get to work with developers and turn product requirements turn into usable features. 
 
 <p>
   <b>Code Stacks</b></br>
