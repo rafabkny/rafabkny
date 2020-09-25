@@ -6,12 +6,19 @@ YES! I know WE ALL LIVE for the moment we get to SHIP TO PRODUCTION!!! But do yo
 I DO :rage1: (don't judge me)
 
 <p>
-  <b>Code Stacks</b></br>
-:floppy_disk: Ruby on Rails with Angular</br>
-:floppy_disk: React JS with C#/.NET, Node.js</br>
+<b>CODE STACKS</b></br>
+:floppy_disk: Ruby on Rails, PostgreSQL with Angular</br>
+:floppy_disk: C#/.NET, Node.js, SQL Server with React JS</br>
 </p>
+
 <p>
-  <b>Infrastructure Services</b></br>
+<b>CONFIGURATION</b></br>
+:floppy_disk: JSON</br>
+:floppy_disk: YAML</br>
+</p>
+
+<p>
+<b>INFRASTUCTURE SERVICES</b></br>
 :cloud: AWS</br>
 :cloud: Azude DevOps</br>
 </p>
