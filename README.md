@@ -6,6 +6,7 @@ I know you don't but **I DO** :rage1:
 
 <p>
 <b>CODE STACKS</b></br>
+I've worked on the development of a web-based SaaS Healthcare application and a CRM Platform using these languages.</br> 
 :floppy_disk: Ruby on Rails, PostgreSQL with Angular</br>
 :floppy_disk: C#/.NET, Node.js, SQL Server with React JS</br>
 </p>
@@ -19,9 +20,10 @@ I know you don't but **I DO** :rage1:
 </p>
 
 <p>
-<b>CONFIGURATION</b></br>
-:floppy_disk: JSON</br>
-:floppy_disk: YAML</br>
+<b>CONFIGURATION</b> {config is pretty}</br>
+I spent several years building out a Suite of Configuration tools, first in JSON and then JSON and YAML</br>
+:link: JSON</br>
+:link: YAML</br>
 </p>
 
 <p>
