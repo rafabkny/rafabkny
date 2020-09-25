@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-*Code Stacks*
-:floppy_disk: Ruby on Rails with Angular
-:floppy_disk: React JS with C#/.NET, Node.js
-
-*Infrastructure Services*
-:cloud: AWS
-:cloud: Azude DevOps
+<p>
+*Code Stacks* </br>
+:floppy_disk: Ruby on Rails with Angular</br>
+:floppy_disk: React JS with C#/.NET, Node.js</br>
+</p>
+<p>
+*Infrastructure Services*</br>
+:cloud: AWS</br>
+:cloud: Azude DevOps</br>
+</p>
 
 
 <!--
