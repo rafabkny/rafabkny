@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <p>
-*Code Stacks* </br>
+  <b>Code Stacks</b></br>
 :floppy_disk: Ruby on Rails with Angular</br>
 :floppy_disk: React JS with C#/.NET, Node.js</br>
 </p>
 <p>
-*Infrastructure Services*</br>
+  <b>Infrastructure Services</b></br>
 :cloud: AWS</br>
 :cloud: Azude DevOps</br>
 </p>
