@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+*Code Stacks*
+:floppy_disk: Ruby on Rails with Angular
+:floppy_disk: React JS with C#/.NET, Node.js
+
+*Infrastructure Services*
+:cloud: AWS
+:cloud: Azude DevOps
+
+
 <!--
 **rafabkny/rafabkny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
