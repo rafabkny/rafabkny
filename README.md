@@ -6,7 +6,7 @@ I know you don't but <b>I DO!</b>
 
 <p>
 <b>CODE STACKS</b></br>
-I've worked on the development of a web-based SaaS Healthcare application and a CRM Platform using these languages:</br>
+I've worked on the development of a web-based SaaS Health Care platform and a CRM application using these languages:</br>
 </br>
 :floppy_disk: Ruby on Rails, PostgreSQL, Angular</br>
 :floppy_disk: C#/.NET, Node.js, SQL Server, React JS</br>
