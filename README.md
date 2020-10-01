@@ -22,7 +22,7 @@ I've worked on the development of a web-based SaaS Health Care platform and a CR
 
 <p>
 <b>CONFIGURATION</b></br>
-I spent several years building out a Suite of Configuration tools, first in JSON and then JSON and YAML. I take notes in a text editor using the YAML Syntax and if I like your app I'm likely going to look at all your pretty JSON calls. If you are looking for numbers; I made <b>1,004 contributions in 2018</b></br>
+I spent several years building out a Suite of Configuration tools, first in JSON and then JSON and YAML. I take notes using a text editor in YAML Syntax. If I like your app I will likely look at all your pretty JSON calls. If numbersare your thing; I made <b>1,004 contributions in 2018</b></br>
 </br>
 :link: JSON</br>
 :link: YAML</br>
@@ -32,7 +32,6 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 :cloud: AWS</br>
 :cloud: Azude DevOps</br>
 </p>
-
 
 <!--
 **rafabkny/rafabkny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
