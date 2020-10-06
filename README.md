@@ -1,15 +1,17 @@
 ### Hi there 👋,
-I am **Rafael** (aka Configutron Prime), the best **Product Management Generalist** you probably haven't met yet. My happy place is the part of the development cycle where I get to work with developers and turn product requirements into usable features.
+I am **Rafael** (aka Configutron Prime), a leading **Product Management Generalist** you probably haven't met yet. My happy place is the part of the development cycle where I get to work with developers and turn product requirements into usable features.
 
 :shipit: I know WE ALL LIVE for the moment we get to SHIP TO PRODUCTION... but do you love the painful process of getting there?</br> 
 I know you don't but <b>I DO</b>!
 
 <p>
-<b>CODE STACKS</b></br>
+:floppy_disk: <b>CODE STACKS</b></br>
 I've worked on the development of a web-based SaaS Health Care platform and a CRM application using these languages:</br>
 </br>
-:floppy_disk: Ruby on Rails, PostgreSQL, Angular</br>
-:floppy_disk: C#/.NET, Node.js, SQL Server, React JS</br>
+<ul>
+  <li>Ruby on Rails, PostgreSQL, Angular</li></br>
+  <li>C#/.NET, Node.js, SQL Server, React JS</li></br>
+</ul>  
 </p>
 
 <p>
