@@ -6,11 +6,10 @@ I know you don't but <b>I DO</b>!
 
 <p>
 :floppy_disk: <b>CODE STACKS</b></br>
-I've worked on the development of a web-based SaaS Health Care platform and a CRM application using these languages:</br>
-</br>
+I've worked on the development of a web-based SaaS Health Care platform and a CRM application using these languages:
 <ul>
-  <li>Ruby on Rails, PostgreSQL, Angular</li></br>
-  <li>C#/.NET, Node.js, SQL Server, React JS</li></br>
+  <li>Ruby on Rails, PostgreSQL, Angular</li>
+  <li>C#/.NET, Node.js, SQL Server, React JS</li>
 </ul>  
 </p>
 
