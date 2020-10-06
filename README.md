@@ -8,8 +8,8 @@ I know you don't but <b>I DO</b>!
 :floppy_disk: <b>CODE STACKS</b></br>
 I've worked on the development of a web-based SaaS Health Care platform and a CRM application using these languages:
 <ul>
-  <li>Ruby on Rails, PostgreSQL, Angular</li>
-  <li>C#/.NET, Node.js, SQL Server, React JS</li>
+<li>Ruby on Rails, PostgreSQL, Angular</li>
+<li>C#/.NET, Node.js, SQL Server, React JS</li>
 </ul>  
 </p>
 
@@ -20,19 +20,23 @@ I've worked on the development of a web-based SaaS Health Care platform and a CR
 <li><b>SendGrid</b> (Transactional and Marketing email services)</li>
 <li><b>Bee Plugin</b> (Email Design)</li>
 <li><b>FlatFile</b> (Data imports)</li>
+</ul>  
 </p>
 
 <p>
-<b>CONFIGURATION</b></br>
+:link:<b>CONFIGURATION</b></br>
 I spent several years building out a Suite of Configuration tools, first in JSON and then JSON and YAML. I take notes in YAML using a text editor. If I like your app I will likely look at all your pretty JSON calls. If numbers are your thing; I made <b>1,004 contributions in 2018</b>.</br>
-</br>
-:link: JSON</br>
-:link: YAML</br>
+<ul>
+<li>JSON</li>
+<li>YAML</li>
+</ul>  
 </p>
 <p>
-<b>INFRASTUCTURE SERVICES</b></br>
-:cloud: AWS</br>
-:cloud: Azude DevOps</br>
+:cloud: <b>INFRASTUCTURE SERVICES</b>
+<ul>
+<li>AWS</li>
+<li>cloud: Azude DevOps</li>
+</ul>  
 </p>
 
 <!--
