@@ -24,7 +24,7 @@ I've worked on the development of a web-based SaaS Health Care platform and a CR
 </p>
 
 <p>
-:link:<b>CONFIGURATION</b></br>
+:link: <b>CONFIGURATION</b></br>
 I spent several years building out a Suite of Configuration tools, first in JSON and then JSON and YAML. I take notes in YAML using a text editor. If I like your app I will likely look at all your pretty JSON calls. If numbers are your thing; I made <b>1,004 contributions in 2018</b>.</br>
 <ul>
 <li>JSON</li>
