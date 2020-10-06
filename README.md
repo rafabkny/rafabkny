@@ -14,11 +14,12 @@ I've worked on the development of a web-based SaaS Health Care platform and a CR
 </p>
 
 <p>
-<b>INTEGRATIONS</b></br>
-:zap: <b>Twilio</b> (SMS, MMS & Broadcast web-based messaging services)</br>
-:zap: <b>SendGrid</b> (Transactional and Marketing email services)</br>
-:zap: <b>Bee Plugin</b> (Email Design)</br>
-:zap: <b>FlatFile</b> (Data imports)</br>
+:zap: <b>INTEGRATIONS</b>
+<ul>
+<li><b>Twilio</b> (SMS, MMS & Broadcast web-based messaging services)</li>
+<li><b>SendGrid</b> (Transactional and Marketing email services)</li>
+<li><b>Bee Plugin</b> (Email Design)</li>
+<li><b>FlatFile</b> (Data imports)</li>
 </p>
 
 <p>
