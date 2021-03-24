@@ -2,7 +2,7 @@
 I am **Rafael** (aka Configutron Prime), a **Product Management Generalist** you probably haven't met yet. My happy place is the part of the development cycle where I get to work with developers and turn product requirements into usable features.
 
 :shipit: I know WE ALL LIVE for the moment we get to SHIP TO PRODUCTION... but do you love the painful process of getting there?</br> 
-I know you don't but <b>I DO</b>!
+Most people don't but <b>I DO</b>!
 
 <p>
 :floppy_disk: <b>CODE STACKS</b></br>
