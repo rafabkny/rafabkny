@@ -5,7 +5,7 @@ I am **Rafael** (aka Configutron Prime), a **Product Management Generalist** you
 Most people don't but <b>I DO</b>!
 
 <p>
-:floppy_disk: <b>CODE STACKS</b></br>
+:floppy_disk:  <b>CODE STACKS</b></br>
 I've worked on the development of a web-based SaaS Health Care platform, a custom CRM application and an EdTech Platform using these languages:
 <ul>
 <li>Ruby on Rails, PostgreSQL, Angular</li>
