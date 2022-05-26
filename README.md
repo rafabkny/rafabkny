@@ -8,6 +8,7 @@ Most people don't but <b>I DO</b>!
 :floppy_disk:  <b>CODE STACKS</b></br>
 I've worked on the development of a web-based SaaS Health Care platform, a custom CRM application and an EdTech Platform using these languages:
 <ul>
+<li>Scala, MySQL, Angular</li>
 <li>Ruby on Rails, PostgreSQL, Angular</li>
 <li>C#/.NET, Node.js, SQL Server, React JS</li>
   <li>Java, Python/Django, Javascript</li>  
