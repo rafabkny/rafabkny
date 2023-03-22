@@ -38,7 +38,7 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 :cloud: <b>INFRASTUCTURE SERVICES</b>
 <ul>
 <li>AWS</li>
-<li>Azude DevOps</li>
+<li>Azure DevOps</li>
 </ul>  
 </p>
 
