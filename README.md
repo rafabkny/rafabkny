@@ -1,12 +1,12 @@
 ### Hi there 👋,
-I am **Rafael** (aka Configutron Prime), a **Product Management Generalist** you probably haven't met yet. My happy place is the part of the development cycle where I get to work with developers and turn product requirements into usable features.
+I am **Rafael** (aka Configutron Prime), a **Full Stack Product Manager** you probably haven't met yet. My happy place is the part of the development cycle where I get to work with developers and turn product requirements into usable features.
 
-:shipit: I know WE ALL LIVE for the moment we get to SHIP TO PRODUCTION... but do you love the painful process of getting there?</br> 
-Most people don't but <b>I DO</b>!
+:shipit: I know WE ALL LIVE for the moment we get to SHIP TO PRODUCTION... but do you love the gut-wrenching process of getting there?</br> 
+Most people don't, but <b>I DO</b>!
 
 <p>
 :floppy_disk:  <b>CODE STACKS</b></br>
-I've worked on the development of a web-based SaaS Health Care platform, a custom CRM application, an EdTech Platform and an Enterprise Debt Collection (Fintech) Platform using these languages:
+I've worked on the development of a web-based SaaS Health Care platform, a custom CRM application, an EdTech Platform, and an Enterprise Debt Collection (Fintech) Platform and most recently in e-Commerce using these languages:
 <ul>
 <li>Scala, MySQL, Kafka (data streaming platform), Angular</li>
 <li>Ruby on Rails, PostgreSQL, Angular</li>
@@ -18,9 +18,10 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 <p>
 :zap: <b>INTEGRATIONS</b>
 <ul>
+<li><b>Narvar</b> (e-Commerce Order Tracking, Returns & Exchanges)</li>
 <li><b>Twilio</b> (SMS, MMS & Broadcast web-based messaging services)</li>
 <li><b>SendGrid</b> (Transactional and Marketing email services)</li>
-  <li><b>Stripe</b> (Ecommerce payments and Subscription services)</li> 
+<li><b>Stripe</b> (Ecommerce payments and Subscription services)</li> 
 <li><b>Bee Plugin</b> (Email Design)</li>
 <li><b>FlatFile</b> (Data imports)</li>
 </ul>  
