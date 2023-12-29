@@ -6,7 +6,7 @@ Most people don't, but <b>I DO</b>!
 
 <p>
 :floppy_disk:  <b>CODE STACKS</b></br>
-I've worked on the development of a web-based SaaS Health Care platform, a custom CRM application, an EdTech Platform, and an Enterprise Debt Collection (Fintech) Platform and most recently in e-Commerce using these languages:
+I've worked on the development of a web-based SaaS Health Care platform, a custom CRM application, an EdTech Platform, an Enterprise Debt Collection (Fintech) Platform, and most recently, in e-Commerce using these languages:
 <ul>
 <li>Scala, MySQL, Kafka (data streaming platform), Angular</li>
 <li>Ruby on Rails, PostgreSQL, Angular</li>
