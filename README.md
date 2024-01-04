@@ -36,7 +36,7 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 </ul>  
 </p>
 <p>
-:cloud: <b>INFRASTUCTURE SERVICES</b>
+:cloud: <b>INFRASTUCTURE TOOLS & SERVICES</b>
 <ul>
 <li>AWS</li>
 <li>Kubernetes</li>  
