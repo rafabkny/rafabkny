@@ -9,9 +9,9 @@ Most people don't, but <b>I DO</b>!
 I've worked on the development of a web-based SaaS Health Care platform, a custom CRM application, an EdTech Platform, an Enterprise Debt Collection (Fintech) Platform, and most recently, in e-Commerce using these languages:
 <ul>
 <li>Scala, MySQL, Kafka (data streaming platform), Angular</li>
-<li>Ruby on Rails, PostgreSQL, Angular</li>
+<li>Ruby on Rails, Active Admin, PostgreSQL, Angular</li>
 <li>C#/.NET, Node.js, SQL Server, React JS</li>
-  <li>Java, Python/Django, Javascript</li>  
+  <li>Java, Python, Django, Javascript</li>  
 </ul>  
 </p>
 
