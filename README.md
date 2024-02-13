@@ -31,7 +31,7 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 :link: <b>CONFIGURATION</b></br>
 I spent several years building out a Suite of Configuration tools, first in JSON, then JSON, and YAML. I take notes in YAML using a text editor. If numbers are your thing, I made <b>1,004 contributions in 2018</b>.</br>
 <ul>
-<li><b>CMS (Content Management Systems)</b>: Active Admin, Django, Drupal and Custom CMS tools</li>
+<li><b>CMS (Content Management Systems)</b>: WordPress, Active Admin, Django, Drupal and Custom CMS tools</li>
 <li>JSON</li>
 <li>YAML</li>
 </ul>  
