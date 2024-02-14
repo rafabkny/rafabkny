@@ -44,8 +44,8 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 <li>Azure DevOps</li>
 </ul>  
 </p>
-
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="883fad70-8e19-4fa0-8da4-10198117f949" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 
 <!--
