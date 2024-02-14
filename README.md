@@ -47,8 +47,6 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 
 <img src="Images/ai-for-product-management.png">
 
-https://github.com/rafabkny/rafabkny/blob/main/Images/ai-for-product-management.png
-![](https://github.com/rafabkny/rafabkny/blob/main/Images/ai-for-product-management.png)
 <!--
 **rafabkny/rafabkny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
