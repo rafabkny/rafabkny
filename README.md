@@ -45,8 +45,6 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 </ul>  
 </p>
 
-https://www.credly.com/badges/883fad70-8e19-4fa0-8da4-10198117f949/public_url
-
 <!--
 **rafabkny/rafabkny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
