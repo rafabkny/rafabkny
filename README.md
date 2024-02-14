@@ -44,7 +44,7 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 <li>Azure DevOps</li>
 </ul>  
 </p>
-
+![](Images/ai-for-product-management.png)
 <!--
 **rafabkny/rafabkny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
