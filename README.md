@@ -1,7 +1,7 @@
 ### Hi there 👋,
-I am **Rafael** (aka Configutron Prime), a **Full Stack Product Manager** you probably haven't met yet. My happy place is the part of the development cycle where I get to work with developers and turn product requirements into usable features.
+I am **Rafael** (aka Configutron Prime), a **Full Stack Product Manager** you probably haven't met yet. My happy place is the part of the Product Development Life Cycle where I get to work with developers and turn product requirements into usable features.
 
-:shipit: I know WE ALL LIVE for the moment we get to SHIP TO PRODUCTION... but do you love the gut-wrenching process of getting there?</br> 
+:shipit: I know WE ALL LIVE for the moment we get to SHIP TO PRODUCTION... but do you love the gut-wrenching/exciting process of getting there?</br> 
 Most people don't, but <b>I DO</b>!
 
 <p>
@@ -45,7 +45,7 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 </ul>  
 </p>
 
-<img src="Images/ai-for-product-management.png" width=300>
+<img src="Images/ai-for-product-management.png" width=250>
 
 <!--
 **rafabkny/rafabkny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
