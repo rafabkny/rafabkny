@@ -47,10 +47,10 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 
 <div class="row">
   <div class="column">
-    <img src="Images/ai-for-product-management.png" alt="Pendo Certification in AI for Product Management" style="width:100%" width=250>
+    <img src="Images/ai-for-product-management.png" alt="Pendo Certification in AI for Product Management" style="width:100%">
   </div>
   <div class="column">
-    <img src="Images/data-science-orientation.png" alt="IBM Certification for Data Science Orientation" width=250>
+    <img src="Images/data-science-orientation.png" alt="IBM Certification for Data Science Orientation" style="width:100%>
   </div>
 </div>
 
