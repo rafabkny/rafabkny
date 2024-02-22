@@ -46,7 +46,7 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 </p>
 
 <img src="Images/ai-for-product-management.png" width=250>
-
+<img src="Images/data-science-orientation.png" width=250>
 <!--
 **rafabkny/rafabkny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
