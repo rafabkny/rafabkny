@@ -28,6 +28,10 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 </p>
 
 <p>
+:mortar_board: <b>CERTIFICATIONS</b>
+<img class="image-align-left" src="Images/ai-for-product-management.png" width=200/><img class="image-align-left" src="Images/data-science-orientation.png" width=200/>  
+</p>
+<p>
 :link: <b>CONFIGURATION</b></br>
 I spent several years building out a Suite of Configuration tools, first in JSON, then JSON, and YAML. I take notes in YAML using a text editor. If numbers are your thing, I made <b>1,004 contributions in 2018</b>.</br>
 <ul>
@@ -44,10 +48,6 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 <li>Azure DevOps</li>
 </ul>  
 </p>
-
-<img class="image-align-left" src="Images/ai-for-product-management.png" width=200/><img class="image-align-left" src="Images/data-science-orientation.png" width=200/>
-
-
 
 <!--
 
