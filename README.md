@@ -3,7 +3,6 @@ I am **Rafael** (aka Configutron Prime), a **Full Stack Product Manager** you pr
 
 :shipit: I know WE ALL LIVE for the moment we get to SHIP TO PRODUCTION... but do you love the gut-wrenching/exciting process of getting there? Most people don't, but <b>I DO</b>!</br> 
 
-
 <p>
 :floppy_disk:  <b>CODE STACKS</b></br>
 I've worked on the development of a web-based SaaS Health Care platform, a custom CRM application, an EdTech Platform, an Enterprise Debt Collection (Fintech) Platform, and most recently, in e-Commerce using these languages:
@@ -28,8 +27,9 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 </p>
 
 <p>
-:mortar_board: <b>CERTIFICATIONS</b>
-<img class="image-align-left" src="Images/ai-for-product-management.png" width=200/><img class="image-align-left" src="Images/data-science-orientation.png" width=200/>  
+:mortar_board: <b>CERTIFICATIONS</b></br>
+</br>
+<img class="image-align-left" src="Images/ai-for-product-management.png" width=150/><img class="image-align-left" src="Images/data-science-orientation.png" width=150/>  
 </p>
 <p>
 :link: <b>CONFIGURATION</b></br>
