@@ -1,8 +1,8 @@
 ### Hi there 👋,
 I am **Rafael** (aka Configutron Prime), a **Full Stack Product Manager** you probably haven't met yet. My happy place is the part of the Product Development Life Cycle where I get to work with developers and turn product requirements into usable features.
 
-:shipit: I know WE ALL LIVE for the moment we get to SHIP TO PRODUCTION... but do you love the gut-wrenching/exciting process of getting there?</br> 
-Most people don't, but <b>I DO</b>!
+:shipit: I know WE ALL LIVE for the moment we get to SHIP TO PRODUCTION... but do you love the gut-wrenching/exciting process of getting there? Most people don't, but <b>I DO</b>!</br> 
+
 
 <p>
 :floppy_disk:  <b>CODE STACKS</b></br>
