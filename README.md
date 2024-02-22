@@ -45,7 +45,7 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 </ul>  
 </p>
 
-<img class="image-align-left" src="Images/ai-for-product-management.png"/><img class="image-align-left" src="Images/data-science-orientation.png"/>
+<img class="image-align-left" src="Images/ai-for-product-management.png" width=200/><img class="image-align-left" src="Images/data-science-orientation.png" width=200/>
 
 
 
