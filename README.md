@@ -36,7 +36,7 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 
 <p>
 :link: <b>CONFIGURATION</b></br>
-I spent several years building out a Suite of Configuration tools in JSON and YAML. In 2018, I made <b>1,004 contributions<b> to our configuration repo to launch numerous client implementations.</br>
+I spent several years building out a Suite of Configuration tools in JSON and YAML. In 2018, I made <b>1,004 contributions</b> to our configuration repo to launch numerous client implementations.</br>
 <ul>
 <li><b>Content Management Systems (CMS)</b>: WordPress, Active Admin, Django, Drupal, and Custom CMS tools</li>
 <li>JSON</li>
