@@ -1,8 +1,13 @@
 ### Hi there 👋,
 I am Rafael (aka Configutron Prime), a Full-Stack Product Manager you probably haven't met yet. My happy place is part of the Product Development Life Cycle, where I work with developers and turn product requirements into usable features.
 
-:shipit: I know we all live for the moment we get to SHIP TO PRODUCTION... but do you love the gut-wrenching/exciting process of getting there? Most people don't, but I do!</br> 
+🌱 I’m currently working on obtaining a [**Data Science Professional Certificate**](https://www.ibm.com/training/badge/data-science-professional-certificate) from **IBM**.
 
+<p>
+:mortar_board: <b>CERTIFICATIONS</b></br>
+</br>
+<img class="image-align-left" src="Images/ai-for-product-management.png" width=150/><img class="image-align-left" src="Images/data-science-orientation.png" width=150/>  
+</p>
 <p>
 :floppy_disk:  <b>CODE STACKS</b></br>
 I've worked on the development of a web-based SaaS Health Care platform, a custom CRM application, an EdTech Platform, an Enterprise Debt Collection (Fintech) Platform, and most recently, in e-Commerce using these languages:
@@ -13,8 +18,6 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 <li>Java, Python, Django, Javascript</li>  
 </ul>  
 </p>
-
-🌱 I’m currently working on obtaining a [**Data Science Professional Certificate**](https://www.ibm.com/training/badge/data-science-professional-certificate) from **IBM**.
 
 <p>
 :zap: <b>INTEGRATIONS</b>
@@ -28,11 +31,6 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 </ul>  
 </p>
 
-<p>
-:mortar_board: <b>CERTIFICATIONS</b></br>
-</br>
-<img class="image-align-left" src="Images/ai-for-product-management.png" width=150/><img class="image-align-left" src="Images/data-science-orientation.png" width=150/>  
-</p>
 <p>
 :link: <b>CONFIGURATION</b></br>
 I spent several years building out a Suite of Configuration tools, first in JSON, then JSON, and YAML. In 2018, I made <b>1,004 contributions to our configuration repo to launch numerous client implementations</b>.</br>
