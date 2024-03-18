@@ -1,13 +1,15 @@
 ### Hi there 👋,
-I am Rafael (aka Configutron Prime), a Full-Stack Product Manager you probably haven't met yet. My happy place is part of the Product Development Life Cycle, where I work with developers and turn product requirements into usable features.
+I am Rafael (aka Configutron Prime), a Full-Stack Product Manager with over ten years of experience you probably haven't met yet. My happy place is part of the Product Development Life Cycle, where I work with developers and turn product requirements into usable features.
 
 🌱 I’m currently working on obtaining a [**Data Science Professional Certificate**](https://www.ibm.com/training/badge/data-science-professional-certificate) from **IBM**.
-
+</br>
+</br>
 <p>
 :mortar_board: <b>CERTIFICATIONS</b></br>
 </br>
 <img class="image-align-left" src="Images/ai-for-product-management.png" width=150/><img class="image-align-left" src="Images/data-science-orientation.png" width=150/>  
 </p>
+
 <p>
 :floppy_disk:  <b>CODE STACKS</b></br>
 I've worked on the development of a web-based SaaS Health Care platform, a custom CRM application, an EdTech Platform, an Enterprise Debt Collection (Fintech) Platform, and most recently, in e-Commerce using these languages:
@@ -25,7 +27,7 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 <li><b>Narvar</b> (e-Commerce Order Tracking, Returns & Exchanges)</li>
 <li><b>Twilio</b> (SMS, MMS & Broadcast web-based messaging services)</li>
 <li><b>SendGrid</b> (Transactional and Marketing email services)</li>
-<li><b>Stripe</b> (Ecommerce payments and Subscription services)</li> 
+<li><b>Stripe</b> (E-commerce payments and Subscription services)</li> 
 <li><b>Bee Plugin</b> (Email Design)</li>
 <li><b>FlatFile</b> (Data imports)</li>
 </ul>  
@@ -33,13 +35,14 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 
 <p>
 :link: <b>CONFIGURATION</b></br>
-I spent several years building out a Suite of Configuration tools, first in JSON, then JSON, and YAML. In 2018, I made <b>1,004 contributions to our configuration repo to launch numerous client implementations</b>.</br>
+I spent several years building out a Suite of Configuration tools in JSON and YAML. In 2018, I made <b>1,004 contributions to our configuration repo to launch numerous client implementations</b>.</br>
 <ul>
 <li><b>CMS (Content Management Systems)</b>: WordPress, Active Admin, Django, Drupal and Custom CMS tools</li>
 <li>JSON</li>
 <li>YAML</li>
 </ul>  
 </p>
+
 <p>
 :cloud: <b>INFRASTUCTURE TOOLS & SERVICES</b>
 <ul>
@@ -50,9 +53,6 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 </p>
 
 <!--
-
-<img src="Images/ai-for-product-management.png" width=250>
-<img src="Images/data-science-orientation.png" width=250>
 
 **rafabkny/rafabkny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
