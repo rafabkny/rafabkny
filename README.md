@@ -6,7 +6,7 @@ I am Rafael (aka Configutron Prime), a **Full-Stack Product Manager** with over 
 </br>
 <img class="image-align-left" src="Images/ai-for-product-management.png" width=150/><img class="image-align-left" src="Images/data-science-orientation.png" width=150/>  
 
-🌱 I’m currently working on obtaining a [**Data Science Professional Certificate**](https://www.ibm.com/training/badge/data-science-professional-certificate) from **IBM**.
+:books: I’m currently working on obtaining a [**Data Science Professional Certificate**](https://www.ibm.com/training/badge/data-science-professional-certificate) from **IBM**.
 </br>
 </br>
 </p>
