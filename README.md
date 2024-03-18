@@ -1,13 +1,14 @@
 ### Hi there 👋,
 I am Rafael (aka Configutron Prime), a Full-Stack Product Manager with over ten years of experience you probably haven't met yet. My happy place is part of the Product Development Life Cycle, where I work with developers and turn product requirements into usable features.
-
-🌱 I’m currently working on obtaining a [**Data Science Professional Certificate**](https://www.ibm.com/training/badge/data-science-professional-certificate) from **IBM**.
-</br>
 </br>
 <p>
 :mortar_board: <b>CERTIFICATIONS</b></br>
 </br>
 <img class="image-align-left" src="Images/ai-for-product-management.png" width=150/><img class="image-align-left" src="Images/data-science-orientation.png" width=150/>  
+
+🌱 I’m currently working on obtaining a [**Data Science Professional Certificate**](https://www.ibm.com/training/badge/data-science-professional-certificate) from **IBM**.
+</br>
+</br>
 </p>
 
 <p>
@@ -27,9 +28,9 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 <li><b>Narvar</b> (e-Commerce Order Tracking, Returns & Exchanges)</li>
 <li><b>Twilio</b> (SMS, MMS & Broadcast web-based messaging services)</li>
 <li><b>SendGrid</b> (Transactional and Marketing email services)</li>
-<li><b>Stripe</b> (E-commerce payments and Subscription services)</li> 
+<li><b>Stripe</b> (e-Commerce Payments and Subscription services)</li> 
 <li><b>Bee Plugin</b> (Email Design)</li>
-<li><b>FlatFile</b> (Data imports)</li>
+<li><b>FlatFile</b> (Data Imports)</li>
 </ul>  
 </p>
 
@@ -37,7 +38,7 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 :link: <b>CONFIGURATION</b></br>
 I spent several years building out a Suite of Configuration tools in JSON and YAML. In 2018, I made <b>1,004 contributions to our configuration repo to launch numerous client implementations</b>.</br>
 <ul>
-<li><b>CMS (Content Management Systems)</b>: WordPress, Active Admin, Django, Drupal and Custom CMS tools</li>
+<li><b>Content Management Systems (CMS)</b>: WordPress, Active Admin, Django, Drupal, and Custom CMS tools</li>
 <li>JSON</li>
 <li>YAML</li>
 </ul>  
