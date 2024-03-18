@@ -1,7 +1,7 @@
 ### Hi there 👋,
-I am **Rafael** (aka Configutron Prime), a **Full Stack Product Manager** you probably haven't met yet. My happy place is the part of the Product Development Life Cycle where I get to work with developers and turn product requirements into usable features.
+I am Rafael (aka Configutron Prime), a Full-Stack Product Manager you probably haven't met yet. My happy place is part of the Product Development Life Cycle, where I work with developers and turn product requirements into usable features.
 
-:shipit: I know WE ALL LIVE for the moment we get to SHIP TO PRODUCTION... but do you love the gut-wrenching/exciting process of getting there? Most people don't, but <b>I DO</b>!</br> 
+:shipit: I know we all live for the moment we get to SHIP TO PRODUCTION... but do you love the gut-wrenching/exciting process of getting there? Most people don't, but I do!</br> 
 
 <p>
 :floppy_disk:  <b>CODE STACKS</b></br>
@@ -10,9 +10,11 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 <li>Scala, MySQL, Kafka (data streaming platform), Angular</li>
 <li>Ruby on Rails, Active Admin, PostgreSQL, Angular</li>
 <li>C#/.NET, Node.js, SQL Server, React JS</li>
-  <li>Java, Python, Django, Javascript</li>  
+<li>Java, Python, Django, Javascript</li>  
 </ul>  
 </p>
+
+🌱 I’m currently working on obtaining a [**Data Science Professional Certificate**](https://www.ibm.com/training/badge/data-science-professional-certificate) from **IBM**.
 
 <p>
 :zap: <b>INTEGRATIONS</b>
@@ -33,7 +35,7 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 </p>
 <p>
 :link: <b>CONFIGURATION</b></br>
-I spent several years building out a Suite of Configuration tools, first in JSON, then JSON, and YAML. I take notes in YAML using a text editor. If numbers are your thing, I made <b>1,004 contributions in 2018</b>.</br>
+I spent several years building out a Suite of Configuration tools, first in JSON, then JSON, and YAML. In 2018, I made <b>1,004 contributions to our configuration repo to launch numerous client implementations</b>.</br>
 <ul>
 <li><b>CMS (Content Management Systems)</b>: WordPress, Active Admin, Django, Drupal and Custom CMS tools</li>
 <li>JSON</li>
@@ -59,7 +61,6 @@ I spent several years building out a Suite of Configuration tools, first in JSON
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
