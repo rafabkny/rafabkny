@@ -1,5 +1,6 @@
 ### Hi there 👋,
-I am Rafael (aka Configutron Prime), a **Full-Stack Product Manager** with over ten years of experience you probably haven't met yet. My happy place is part of the Product Development Life Cycle, where I work with developers and turn product requirements into usable features.
+
+I am Rafael, a **Full-Stack Product Manager** with over ten years of experience you haven't met yet. My happy place is the Product Development Life Cycle stage, where I work with developers to turn product requirements into usable features.
 </br>
 <p>
 :mortar_board: <b>CERTIFICATIONS</b></br>
