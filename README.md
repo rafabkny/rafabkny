@@ -16,9 +16,10 @@ I am Rafael, a **Full-Stack Product Manager** with over ten years of experience 
 :floppy_disk:  <b>CODE STACKS</b></br>
 I've worked on the development of a web-based SaaS Health Care platform, a custom CRM application, an EdTech Platform, an Enterprise Debt Collection (Fintech) Platform, and most recently, in e-Commerce using these languages:
 <ul>
+<li>Microsoft SQL Server, .NET, Node.js, Javascript, React, Angular</li>li>
 <li>Scala, MySQL, Kafka (data streaming platform), Angular</li>
 <li>Ruby on Rails, Active Admin, PostgreSQL, Angular</li>
-<li>C#/.NET, Node.js, SQL Server, React JS</li>
+<li>C#/.NET, Node.js, SQL Server, React</li>
 <li>Java, Python, Django, Javascript</li>  
 </ul>  
 </p>
@@ -26,6 +27,7 @@ I've worked on the development of a web-based SaaS Health Care platform, a custo
 <p>
 :zap: <b>INTEGRATIONS</b>
 <ul>
+<li><b>Pega</b> (Low-Code Platform for Workflow Automation & Case Management)</li> 
 <li><b>Narvar</b> (e-Commerce Order Tracking, Returns & Exchanges)</li>
 <li><b>Twilio</b> (SMS, MMS & Broadcast web-based messaging services)</li>
 <li><b>SendGrid</b> (Transactional and Marketing email services)</li>
